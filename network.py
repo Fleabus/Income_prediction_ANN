@@ -1,3 +1,11 @@
+#============================================================#
+#                                                            #
+#   Artificial Neural Network                                #
+#   Using the adult data to predict income                   #
+#   - Matthew Lee-Mattner                                    #
+#                                                            #
+#============================================================#
+
 import tensorflow as tf
 import numpy as np
 from adult_data import Adult_Data
